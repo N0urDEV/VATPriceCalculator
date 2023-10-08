@@ -1,1 +1,2 @@
 # VATPriceCalculator
+ "VATPriceCalculator" is a Python script that calculates the price of a product, including Value Added Tax (VAT). It prompts the user to enter the price before tax and the VAT category of the product (A, B, or C). Based on the category, it adds the appropriate VAT rate to calculate the price including VAT. The script then displays the total price, including VAT, in Moroccan Dirhams (dhs).
